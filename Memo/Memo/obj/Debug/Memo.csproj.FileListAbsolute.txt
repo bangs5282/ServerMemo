@@ -1,0 +1,12 @@
+C:\Users\nfe81\source\repos\Memo\Memo\bin\Debug\Memo.exe.config
+C:\Users\nfe81\source\repos\Memo\Memo\bin\Debug\Memo.exe
+C:\Users\nfe81\source\repos\Memo\Memo\bin\Debug\Memo.pdb
+C:\Users\nfe81\source\repos\Memo\Memo\bin\Debug\MaterialSkin.dll
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.csproj.AssemblyReference.cache
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.Properties.Resources.resources
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.csproj.GenerateResource.cache
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.csproj.CoreCompileInputs.cache
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.csproj.CopyComplete
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.exe
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.pdb
+C:\Users\nfe81\source\repos\Memo\Memo\obj\Debug\Memo.Form1.resources
